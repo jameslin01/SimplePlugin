@@ -1,0 +1,5 @@
+name: SimplePlugin
+main: dev.james.spigot.simpleplugin.App
+version: 0.0.1
+api-version: 1.21.3
+description: A plugin that returns a message on loading of the plugin
